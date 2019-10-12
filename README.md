@@ -1,4 +1,4 @@
-# Online Judge (UVA) e Seletiva UnB Greedy
+# Online Judge (UVa) e Seletiva UnB Greedy
 
 Para este trabalho, selecionamos três questões: uma da Seletiva UnB de Programação Competitiva 2019, a questão [F - Espetinho do Barbosinha](https://codeforces.com/group/btcK4I5D5f/contest/244688/problem/F), e duas do _Online Judge (UVa)_,
 [11369 - Shopaholic](https://onlinejudge.org/external/113/11369.pdf) e a [10763 - Foreign Exchange](https://onlinejudge.org/external/113/11369.pdf)
