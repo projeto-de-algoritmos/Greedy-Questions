@@ -1,11 +1,11 @@
 # Online Judge (UVa) e Seletiva UnB Greedy
 
 Para este trabalho, selecionamos três questões: uma da Seletiva UnB de Programação Competitiva 2019, a questão [F - Espetinho do Barbosinha](https://codeforces.com/group/btcK4I5D5f/contest/244688/problem/F), e duas do _Online Judge (UVa)_,
-[11369 - Shopaholic](https://onlinejudge.org/external/113/11369.pdf) e a [10763 - Foreign Exchange](https://onlinejudge.org/external/113/11369.pdf)
+[11369 - Shopaholic](https://onlinejudge.org/external/113/11369.pdf) e a [10763 - Foreign Exchange](https://onlinejudge.org/external/107/10763.pdf)
 
 ## Implementação
 
-Em todas as questões foi usado a paradigma de resolução de problemas ganâncioso (*Greedy*), no qual realiza-se previamente uma ordenação que guia uma solução ótima local para posteriormente convergir para uma ótima global. Em cada uma das questões há linha comentadas que auxiliam na compreensão da resolução da questão.
+Em todas as questões foi usado a paradigma de resolução de problemas ganâncioso (_Greedy_), no qual realiza-se previamente uma ordenação que guia uma solução ótima local para posteriormente convergir para uma ótima global. Em cada uma das questões há linha comentadas que auxiliam na compreensão da resolução da questão.
 
 Para cada questão, existe alguns casos de testes para poder visualizar rapidamente o funcionamento do algoritmo. Para cada input fornecido existe a resposta oficial, ou seja, que foi processada manualmente.
 
@@ -26,9 +26,9 @@ Para cada questão, existe alguns casos de testes para poder visualizar rapidame
 
 1. Clone o repositório
 2. Você encontrará um arquivo para cada questão, onde poderá ver o código e executá-lo
-3. Para executar, compile-o com ```g++ nome_do_arquivo.cpp -o prog``` e execute com ```./prog```
+3. Para executar, compile-o com `g++ nome_do_arquivo.cpp -o prog` e execute com `./prog`
 
-   3.1. Caso queira executar algum caso dos _inputs_ fornecidos execute ```./prog < inputX.txt```, onde _X_ é o número do caso de teste 
+   3.1. Caso queira executar algum caso dos _inputs_ fornecidos execute `./prog < inputX.txt`, onde _X_ é o número do caso de teste
 
 <hr/>
 <p align="center"><b>Greedy</b></p>
